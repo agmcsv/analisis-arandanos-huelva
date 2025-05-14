@@ -4,11 +4,6 @@ Este apartado presenta proyecciones futuras basadas en datos históricos y tende
 
 ---
 
-## Gráfico de Predicción
-
-![Predicción de arándanos](prediccion_consumo_precio_produccion_arandanos.png)
-
----
 
 ## Tabla Resumen
 
