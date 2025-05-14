@@ -14,6 +14,10 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Top países importadores por año
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
+- ## Licencia
+
+Este proyecto es de uso educativo y no tiene fines comerciales.  
+Puedes usar los scripts y visualizaciones citando al autor.
 ## Autor
 
 Adrián García
