@@ -17,6 +17,11 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
 - Se ha realizado una predicción lineal de la producción
+ ##  Mapas Interactivos
+
+Visualizaciones con datos reales sobre la producción de arándanos:
+
+-[Producción mundial de arándanos con detalle en Huelva](mapas/mapa_arandanos_mundial.html)
 
 ## Opinión
 Este repositorio ofrece una base sólida para comprender la dinámica de la producción de arándanos en Huelva, una región que concentra el 97% de la producción española de este fruto .
