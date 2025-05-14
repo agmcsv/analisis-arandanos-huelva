@@ -7,6 +7,13 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - `datos/`: Archivos de datos crudos (CSV)
 - `graficos/ `representación visual de datos (PNG)
 - `README.md` — Documentación del proyecto.
+## Análisis Realizados
+
+- Producción por variedad de arándano entre 2015 y 2024
+- Evolución anual de exportaciones por país
+- Top países importadores por año
+- Tendencias estacionales
+- Simulación de escenarios de cultivo
 ## Autor
 
 Adrián García
