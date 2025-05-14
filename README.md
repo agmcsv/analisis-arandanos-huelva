@@ -5,7 +5,8 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 ## Estructura del repositorio
 
 - `datos/`: Archivos de datos crudos (CSV)
-- `graficos/ `representación visual de datos (PNG)
+- `graficos/ `Representación visual de datos (PNG)
+- `Fuentes.md`Origen de analisis y procesos
 - `README.md` — Documentación del proyecto.
 ## Análisis Realizados
 
