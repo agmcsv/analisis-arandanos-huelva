@@ -29,10 +29,13 @@ Este repositorio ofrece una base sólida para comprender la dinámica de la prod
 
 
 
- ## Licencia
+## 📄 Licencia
 
-Este proyecto es de uso educativo y no tiene fines comerciales.  
-Puedes usar los scripts y visualizaciones citando al autor.
-## Autor
+Este repositorio está licenciado bajo la licencia  
+[Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Puedes **compartir** y **adaptar** el contenido, siempre que cites la fuente  
+y sea **sin fines comerciales**.
+#![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 Adrián García
