@@ -16,7 +16,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Simulación de escenarios de cultivo
   
 
-- ## Licencia
+ ## Licencia
 
 Este proyecto es de uso educativo y no tiene fines comerciales.  
 Puedes usar los scripts y visualizaciones citando al autor.
