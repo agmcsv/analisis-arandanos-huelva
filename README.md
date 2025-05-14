@@ -7,7 +7,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - `datos/` Archivos de datos crudos (CSV)
 - `graficos/ ` Representación visual de datos (PNG)
 - `predicciones/`Proyecciones futuras basadas en datos históricos y tendencias observadas en el cultivo y mercado
-- `Fuentes.md` Origen de datos , analisis y procesos
+- `Fuentes.md` Origen de datos , análisis y procesos
 - `README.md` Documentación del proyecto.
 ## Análisis Realizados
 
