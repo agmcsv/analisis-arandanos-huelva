@@ -20,6 +20,7 @@ Este apartado presenta proyecciones futuras basadas en datos históricos y tende
 - **Demanda creciente**: El consumo nacional sigue aumentando debido a la mayor concienciación sobre los beneficios del arándano para la salud.
 - **Precios en alza**: Las mejoras en calidad y variedad permiten precios más altos y sostenibles.
 - **Producción estable y tecnológica**: Aumentos moderados por optimización de cultivo más que por expansión de superficie.
+- **Factores externos a tener en cuenta**: Eventos globales como la pandemia de COVID-19 o crisis energéticas recientes han demostrado la vulnerabilidad de las cadenas de suministro y la importancia de la resiliencia agrícola. Aunque el impacto directo en el sector del arándano fue limitado, conviene tenerlo presente en futuras proyecciones.
 
 ---
 
