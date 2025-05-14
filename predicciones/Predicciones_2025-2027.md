@@ -28,7 +28,7 @@ Este apartado presenta proyecciones futuras basadas en datos históricos y tende
 
 Estas proyecciones se basan en la combinación de:
 - Datos históricos 2015–2024 (propios y públicos).
-- Tendencias de consumo del Ministerio de Agricultura, Pesca y Alimentación (MAPA).
+- Tendencias de consumo del Ministerio de Agricultura, Pesca y Alimentación.
 - Precios medios del Observatorio de Precios y Mercados de Andalucía.
 - Análisis del crecimiento del mercado europeo del arándano.
 
