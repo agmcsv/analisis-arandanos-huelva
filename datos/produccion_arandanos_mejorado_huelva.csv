@@ -1,0 +1,11 @@
+Año,Superficie Cultivada (ha),Producción Total (toneladas),Rendimiento por Hectárea (toneladas/ha),Área por Zona,Método de Cultivo,Precio Medio (€/kg)
+2015,1150,10000,8.7,Costa,Convencional,2.5
+2016,1200,11000,9.2,Interior,Convencional,2.6
+2017,2500,20000,8.0,Costa,Ecológico,3.0
+2018,2800,22500,8.0,Interior,Convencional,2.8
+2019,3000,25000,8.3,Costa,Ecológico,3.2
+2020,3300,27000,8.2,Costa/Interior,Convencional,3.5
+2021,3500,29000,8.3,Costa,Ecológico,3.6
+2022,3600,30000,8.3,Interior,Convencional,3.7
+2023,3700,31500,8.5,Costa/Interior,Ecológico,3.8
+2024,3800,32000,8.4,Costa,Convencional,4.0
