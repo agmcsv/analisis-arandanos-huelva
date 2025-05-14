@@ -18,7 +18,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
 - Se ha realizado una predicción lineal de la producción
- ##  Mapas Interactivos
+ ##  Mapa Interactivo
 
 Visualizaciones con datos reales sobre la producción de arándanos:
 
