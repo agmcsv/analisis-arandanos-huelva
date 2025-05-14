@@ -38,4 +38,5 @@ Puedes **compartir** y **adaptar** el contenido, siempre que cites la fuente
 y sea **sin fines comerciales**.
 #![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
+## Autor
 Adrián García
