@@ -8,6 +8,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - `graficos/ ` Representación visual de datos (PNG)
 - `predicciones/`Proyecciones futuras basadas en datos históricos y tendencias observadas en el cultivo y mercado
 - `Fuentes.md` Origen de datos , análisis y procesos
+- `mapa_arandanos_mundial.html`Muestra los principales países productores de arándanos, representados por círculos escalados según el volumen de producción (en toneladas)
 - `README.md` Documentación del proyecto.
 ## Análisis Realizados
 
