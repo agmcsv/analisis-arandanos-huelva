@@ -4,10 +4,11 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 
 ## Estructura del repositorio
 
-- `datos/`: Archivos de datos crudos (CSV)
-- `graficos/ `Representación visual de datos (PNG)
-- `Fuentes.md`Origen de analisis y procesos
-- `README.md` — Documentación del proyecto.
+- `datos/` Archivos de datos crudos (CSV)
+- `graficos/ ` Representación visual de datos (PNG)
+- `predicciones/`Proyecciones futuras basadas en datos históricos y tendencias observadas en el cultivo y mercado
+- `Fuentes.md` Origen de analisis y procesos
+- `README.md` Documentación del proyecto.
 ## Análisis Realizados
 
 - Producción por variedad de arándano entre 2015 y 2024
