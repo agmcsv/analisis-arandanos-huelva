@@ -5,7 +5,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 ## Estructura del repositorio
 
 - `datos/`: Archivos de datos crudos (CSV)
-- `graficos/  `representación visual de datos
+- `graficos/ `representación visual de datos (PNG)
 ## Autor
 
 Adrián García
