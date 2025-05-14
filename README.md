@@ -31,7 +31,7 @@ Este repositorio ofrece una base sólida para comprender la dinámica de la prod
 
 ## 📄 Licencia
 
-Este repositorio está bajo la licencia  
+Este repositorio está licenciado bajo la licencia  
 [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Puedes **compartir** y **adaptar** el contenido, siempre que cites la fuente  
