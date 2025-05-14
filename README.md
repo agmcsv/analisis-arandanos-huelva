@@ -16,6 +16,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Top países importadores por año
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
+- Se ha realizado una predicción lineal de la producción 
 
 
 
