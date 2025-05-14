@@ -6,6 +6,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 
 - `datos/`: Archivos de datos crudos (CSV)
 - `graficos/ `representación visual de datos (PNG)
+- `README.md` — Documentación del proyecto.
 ## Autor
 
 Adrián García
