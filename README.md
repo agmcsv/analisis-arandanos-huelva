@@ -5,7 +5,6 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 ## Estructura del repositorio
 
 - `datos/`: Archivos de datos crudos (por ejemplo, CSV o Excel)
-- `notebooks/`: Cuadernos Jupyter con análisis paso a paso
 - `resultados/`: Gráficos, tablas y documentos generados
 
 ## Autor
