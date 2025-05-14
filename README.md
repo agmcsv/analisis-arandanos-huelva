@@ -16,7 +16,10 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Top países importadores por año
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
-- Se ha realizado una predicción lineal de la producción 
+- Se ha realizado una predicción lineal de la producción
+
+## Opinión
+Este repositorio ofrece una base sólida para comprender la dinámica de la producción de arándanos en Huelva, una región que concentra el 97% de la producción española de este fruto .
 
 
 
