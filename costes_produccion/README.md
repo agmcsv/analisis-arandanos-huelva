@@ -21,4 +21,7 @@ Cada tabla contiene:
 - **Huelva**: Estimaciones agrícolas regionales (2024–2025)
 - **Polonia**: Informes del Ministerio de Agricultura de Polonia y fuentes europeas (2024–2025)
 
+> ## 🔍 Nota sobre los datos
+
+Los valores incluidos en esta carpeta son **estimaciones realistas** construidas a partir de informes agrícolas, publicaciones del sector y fuentes estadísticas. No representan cifras exactas ni oficiales, pero sí son útiles como base comparativa y formativa para un análisis exploratorio de costes.
 > Los valores pueden variar ligeramente según variedad, manejo técnico, tipo de finca y clima.
