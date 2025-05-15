@@ -12,4 +12,4 @@
 
 ---
 
-🔎 Marruecos está ampliando su ventaja competitiva gracias a una cosecha más temprana y menores costes, lo que representa un desafío directo para los productores onubenses. Sin embargo, Huelva sigue destacando por su calidad y experiencia técnica.
+Marruecos está ampliando su ventaja competitiva gracias a una cosecha más temprana y menores costes, lo que representa un desafío directo para los productores onubenses. Sin embargo, Huelva sigue destacando por su calidad y experiencia técnica.
