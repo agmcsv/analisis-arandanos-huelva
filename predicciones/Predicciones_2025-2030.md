@@ -57,7 +57,7 @@ El crecimiento en producción se debe más a mejoras en eficiencia que a un aume
 
 ## ⚠️ Riesgos a Tener en Cuenta
 
-- Cambio climático (heladas, sequías)
+- Condiciones climáticas extremas
 - Competencia de otros países
 - Costes energéticos o logísticos elevados
 - Legislación europea en pesticidas y sostenibilidad
