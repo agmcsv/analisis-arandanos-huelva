@@ -11,6 +11,7 @@ Cada tabla contiene:
 - Costo de establecimiento por hectárea
 - Costo de operación anual
 - Costo estimado por kg (mínimo y máximo)
+- Mano de Obra
 
 ---
 
