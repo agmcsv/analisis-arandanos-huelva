@@ -1,4 +1,4 @@
-# 📈 Predicciones del Mercado del Arándano en Huelva (2025–2030)
+# Predicciones del Mercado del Arándano en Huelva (2025–2030)
 
 Este informe presenta una proyección de la evolución del mercado del arándano en la provincia de Huelva desde 2025 hasta 2030, con base en datos históricos (2015–2024), tendencias nacionales y europeas, y factores agrícolas y económicos clave.
 
