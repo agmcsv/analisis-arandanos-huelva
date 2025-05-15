@@ -1,8 +1,8 @@
-## Análisis de datos de arándanos en Huelva      🌱                                                                                                                            
+## Análisis de datos de arándanos en Huelva                                                                                                                            
 
 Este portafolio muestra un análisis exploratorio de datos sobre la producción de arándanos en la región de Huelva, España. El objetivo es estudiar tendencias, rendimiento y posibles factores que afectan el cultivo.(2015-2024)
 
- ## Estructura del repositorio 📂	
+ ## 📂 Estructura del repositorio 	
 
 - `benchmark/` Comparativas de producción de arándanos entre Huelva y otros países/regiones. Incluye análisis de volumen, proyecciones y características productivas.
 - `costes_produccion/` Datos económicos sobre costes de producción detallados por país, con archivos CSV, gráficos y resúmenes.
@@ -12,7 +12,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - `Fuentes.md` Origen de datos , análisis y procesos
 - `mapa_arandanos_mundial.html`Muestra los principales países productores de arándanos, representados por círculos escalados según el volumen de producción (en toneladas)
 - `README.md` Documentación del proyecto.
-## Análisis Realizados📊
+## 📊 Análisis Realizados
 
 - Benchmark comparativo de producción de arándanos entre Huelva y otros países clave.
 - Estudio y visualización de costes de producción agrícolas detallados por país.
@@ -28,7 +28,7 @@ Visualizaciones con datos reales sobre la producción de arándanos:
 
 -[Ver mapa interactivo mundial](https://agmcsv.github.io/analisis-arandanos-huelva/mapa_arandanos_mundial.html)
 
-## Opinión💭
+## 💭 Opinión
 Este repositorio ofrece una base sólida para comprender la dinámica de la producción de arándanos en Huelva, una región que concentra el 97% de la producción española de este fruto .
 
 
