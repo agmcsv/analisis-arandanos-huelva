@@ -24,4 +24,4 @@ Comparativa entre Huelva y otros países/regiones productoras clave a nivel mund
 
 ### Conclusión
 
-Huelva destaca en Europa pero debe seguir apostando por la **tecnificación del cultivo**, la **diversificación de mercados** y la **resiliencia climática** para competir con grandes productores internacionales como Perú y Marruecos.
+Huelva destaca en Europa pero debe seguir apostando por la tecnificación del cultivo, la diversificación de mercados y la resiliencia climática para competir con grandes productores internacionales como Perú y Marruecos.
