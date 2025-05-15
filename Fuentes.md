@@ -25,7 +25,7 @@ Datos sobre comercio intracomunitario de productos agrícolas entre países miem
 🔗 https://ec.europa.eu/eurostat/
 
 
-## 📰 Informes Sectoriales
+##  Informes Sectoriales
 Freshuelva – Asociación Onubense de Productores y Exportadores de Fresas y Frutos Rojos
 Publicaciones periódicas sobre la campaña agrícola, innovación en cultivos, variedades nuevas y destinos de exportación.
 🔗 https://freshuelva.es
