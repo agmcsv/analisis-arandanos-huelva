@@ -61,6 +61,8 @@ El crecimiento en producción se debe más a mejoras en eficiencia que a un aume
 - Competencia de otros países
 - Costes energéticos o logísticos elevados
 - Legislación europea en pesticidas y sostenibilidad
+- Crisis energéticas o interrupciones eléctricas
+- Tensiones geopolíticas
 
 ---
 
