@@ -1,4 +1,4 @@
-# 📚 Fuentes de Datos Benchmark
+# Fuentes de Datos Benchmark
 
 - [ProducePay - Análisis del mercado del arándano en Perú](https://producepay.com/es/resources/arandano-peruano-liderazgo-oportunidades-retos-2025/)
 - [Blueberries Consulting - Producción en Marruecos](https://blueberriesconsulting.com/marruecos-el-objetivo-es-superar-las-100-mil-toneladas-en-exportaciones-de-arandano/)
