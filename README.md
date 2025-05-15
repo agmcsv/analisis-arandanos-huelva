@@ -4,6 +4,8 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 
 ## Estructura del repositorio
 
+- `benchmark/` Comparativas de producción de arándanos entre Huelva y otros países/regiones. Incluye análisis de volumen, proyecciones y características productivas.
+- `costes_produccion/` Datos económicos sobre costes de producción detallados por país, con archivos CSV, gráficos y resúmenes.
 - `datos/` Archivos de datos crudos (CSV)
 - `graficos/ ` Representación visual de datos (PNG)
 - `predicciones/`Proyecciones futuras basadas en datos históricos y tendencias observadas en el cultivo y mercado
