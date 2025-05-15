@@ -9,9 +9,9 @@ Este apartado presenta proyecciones futuras basadas en datos históricos y tende
 
 | Año  | Consumo per cápita (kg/persona) | Precio promedio (€/kg) | Producción total (toneladas) |
 |------|----------------------------------|-------------------------|-------------------------------|
-| 2025 | 0,50                             | 6,20                    | 72.000                        |
-| 2026 | 0,65                             | 6,50                    | 76.000                        |
-| 2027 | 0,80                             | 6,80                    | 80.000                        |
+| 2025 | 0,50                             | 4,80                    | 72.000                        |
+| 2026 | 0,65                             | 5,20                    | 76.000                        |
+| 2027 | 0,80                             | 5,80                    | 80.000                        |
 
 ---
 
