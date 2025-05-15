@@ -1,4 +1,4 @@
-# 🌍 Benchmark Internacional: Producción de Arándanos (2025–2030)
+# Benchmark Internacional: Producción de Arándanos (2025–2030)
 
 | Región / País        | Producción estimada 2025 | Proyección 2030        | Observaciones clave                                                                 |
 |----------------------|--------------------------|-------------------------|--------------------------------------------------------------------------------------|
