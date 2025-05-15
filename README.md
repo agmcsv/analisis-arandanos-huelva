@@ -17,7 +17,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Top países importadores por año
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
-- Se ha realizado una predicción lineal de la producción(2025-2027)
+- Se ha realizado una predicción lineal de la producción
  ##  Mapa Interactivo
 
 Visualizaciones con datos reales sobre la producción de arándanos:
