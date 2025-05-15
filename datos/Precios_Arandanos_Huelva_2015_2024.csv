@@ -1,11 +1,13 @@
-Año,Precio Medio (€/kg)
-2015,3.47
-2016,4.05
-2017,4.06
-2018,3.45
-2019,4.45
-2020,4.81
-2021,4.32
-2022,3.54
-2023,4.83
-2024,
+Año,Precio Medio (€/kg)| Año | Fuente                                                                                                                                                                                                                                                                            
+| ---- | ------------------- | -------------------------
+| 2015 | 3,47                | [Infoagro]                                                                                                                                                       
+| 2016 | 4,05                | [Infoagro]                                                                                                                                                       
+| 2017 | 4,06                | [Freshplaza]                                                                                                                                     
+| 2018 | 3,45                | [Freshplaza]                                                                                                                                   
+| 2019 | 4,45                | [Blueberries Consulting]                                                                                                                                  
+| 2020 | 4,81                | [Blueberries Consulting]                                                                                                                                   
+| 2021 | 4,32                | [Freshplaza]                                                                                                                                  
+| 2020 | 4,81                | [Blueberries Consulting]                                                                                                                                   
+| 2022 | 3,54                | [Blueberries Consulting]                                                                                                                                                    
+| 2023 | 4,83                | [Revista Mercados]                                                                                                                                                  
+| 2024 | N/D                                                                                                                               
