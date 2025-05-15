@@ -73,6 +73,22 @@ El crecimiento en producción se debe más a mejoras en eficiencia que a un aume
 - Observatorio de Precios y Mercados de Andalucía: [https://www.juntadeandalucia.es/observatorio-de-precios](https://www.juntadeandalucia.es/observatorio-de-precios)
 - Eurostat: [https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat)
 - FAOSTAT: [https://www.fao.org/faostat/](https://www.fao.org/faostat/)
+- Ministerio de Agricultura, Pesca y Alimentación (MAPA):  
+  https://www.mapa.gob.es
+- Observatorio de Precios y Mercados de Andalucía (Junta de Andalucía):  
+  https://www.juntadeandalucia.es/observatorio-de-precios
+- Eurostat (Estadísticas agrícolas de la Unión Europea):  
+  https://ec.europa.eu/eurostat
+- FAOSTAT (Organización de las Naciones Unidas para la Agricultura y la Alimentación):  
+  https://www.fao.org/faostat/
+- Infoagro (base de datos técnica sobre cultivos):  
+  https://www.infoagro.com
+- Freshuelva (Asociación de Productores y Exportadores de Berries de Huelva):  
+  https://freshuelva.es
+- FruitVegetablesEUROPE (informes de mercado de frutas y hortalizas a nivel europeo):  
+  https://www.fruitvegetableseurope.eu
+- Red de Alerta e Información Fitosanitaria de Andalucía (RAIF):  
+  https://www.juntadeandalucia.es/agriculturaypesca/raif/
 
 ---
 
