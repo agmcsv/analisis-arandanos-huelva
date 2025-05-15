@@ -23,5 +23,5 @@ Cada tabla contiene:
 
 > ## 🔍 Nota sobre los datos
 
-Los valores incluidos en esta carpeta son **estimaciones realistas** construidas a partir de informes agrícolas, publicaciones del sector y fuentes estadísticas. No representan cifras exactas ni oficiales, pero sí son útiles como base comparativa y formativa para un análisis exploratorio de costes.
+Los valores incluidos en esta carpeta son estimaciones realistas construidas a partir de informes agrícolas, publicaciones del sector y fuentes estadísticas. No representan cifras exactas ni oficiales, pero sí son útiles como base comparativa y formativa para un análisis exploratorio de costes.
 > Los valores pueden variar ligeramente según variedad, manejo técnico, tipo de finca y clima.
