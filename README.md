@@ -14,6 +14,8 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - `README.md` Documentación del proyecto.
 ## Análisis Realizados
 
+- Benchmark comparativo de producción de arándanos entre Huelva y otros países clave.
+- Estudio y visualización de costes de producción agrícolas detallados por país.
 - Producción por variedad de arándano entre 2015 y 2024
 - Evolución anual de exportaciones por país
 - Top países importadores por año
