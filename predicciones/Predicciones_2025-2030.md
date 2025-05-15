@@ -34,14 +34,6 @@ Las predicciones se han elaborado mediante el análisis de tendencias lineales b
 
 ---
 
-## Gráfico Comparativo
-
-Este gráfico muestra la evolución conjunta de los tres indicadores clave.
-
-![Gráfico Predicciones 2025–2030](../graficos/predicciones_arandano_2025_2030.png)
-
----
-
 ## Análisis
 
 ### Consumo
