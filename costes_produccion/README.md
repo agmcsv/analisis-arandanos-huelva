@@ -21,4 +21,4 @@ Cada tabla contiene:
 - **Huelva**: Estimaciones agrícolas regionales (2024–2025)
 - **Polonia**: Informes del Ministerio de Agricultura de Polonia y fuentes europeas (2024–2025)
 
-> ⚠️ Los valores pueden variar ligeramente según variedad, manejo técnico, tipo de finca y clima.
+> Los valores pueden variar ligeramente según variedad, manejo técnico, tipo de finca y clima.
