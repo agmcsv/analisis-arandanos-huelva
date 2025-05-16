@@ -22,6 +22,9 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
 - Se ha realizado una predicción lineal de la producción
+ ## 📓 Notebook de análisis en Colab
+Cada notebook carga datos desde GitHub, realiza una exploración inicial (vista previa, estadísticas, gráficos) y utiliza herramientas como Pandas y Matplotlib. Están organizados por carpeta según el tipo de dato analizado.
+  
  ##  Mapa Interactivo🌍
 
 Visualizaciones con datos reales sobre la producción de arándanos:
