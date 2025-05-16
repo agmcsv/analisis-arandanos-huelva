@@ -14,7 +14,7 @@ Se espera un crecimiento estable en la producción de arándanos en Huelva graci
 
 Las predicciones se han elaborado mediante el análisis de tendencias lineales basadas en:
 
-- Datos del **Ministerio de Agricultura, Pesca y Alimentación (MAPA)**
+- Datos del Ministerio de Agricultura, Pesca y Alimentación (MAPA)
 - Observatorio de Precios y Mercados de Andalucía
 - Proyecciones del mercado europeo (Eurostat, FAOSTAT)
 - Datos internos (2015–2024)
