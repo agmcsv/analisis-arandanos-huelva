@@ -5,6 +5,7 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
  ## 📂 Estructura del repositorio 	
 
 - `benchmark/` Comparativas de producción de arándanos entre Huelva y otros países/regiones. Incluye análisis de volumen, proyecciones y características productivas.
+- `conclusiones/` Documento que recoge las conclusiones del análisis realizado sobre el mercado.
 - `costes_produccion/` Datos económicos sobre costes de producción detallados por país, con archivos CSV, gráficos y resúmenes.
 - `datos/` Archivos de datos crudos (CSV)
 - `graficos/ ` Representación visual de datos (PNG)
@@ -14,14 +15,14 @@ Este portafolio muestra un análisis exploratorio de datos sobre la producción 
 - `README.md` Documentación del proyecto.
 ## 📊 Análisis Realizados
 
-- Benchmark comparativo de producción de arándanos entre Huelva y otros países clave.
-- Estudio y visualización de costes de producción agrícolas detallados por país.
+- Benchmark comparativo de producción de arándanos entre Huelva y otros países clave.- Estudio y visualización de costes de producción agrícolas detallados por país.
 - Producción por variedad de arándano entre 2015 y 2024
 - Evolución anual de exportaciones por país
 - Top países importadores por año
 - Tendencias estacionales
 - Simulación de escenarios de cultivo
-- Se ha realizado una predicción lineal de la producción
+- Predicción lineal de la producción de arándanos para los próximos años.
+- Conclusiones finales y recomendaciones para mejorar la competitividad del sector
  ## 📓 Notebook de análisis en Colab
 Cada notebook carga datos desde GitHub, realiza una exploración inicial (vista previa, estadísticas, gráficos) y utiliza herramientas como Pandas y Matplotlib. Están organizados por carpeta.
   
