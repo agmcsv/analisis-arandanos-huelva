@@ -7,7 +7,7 @@ Perú, entre otros países, también ha incrementado su cuota en el mercado glob
 
 ## Calidad de la fruta
 
-Muchos de los arándanos que provienen de estos países, a pesar de su bajo costo, tienen una calidad inferior a la de los producidos en España. A menudo, la fruta exportada no cumple con los estándares de frescura y calidad que los consumidores esperan de un producto premium como el arándano español.
+Muchos de los arándanos que provienen de estos países, a pesar de su bajo costo, tienen una calidad inferior a la de los producidos en España. A menudo, la fruta exportada no cumple con los estándares de frescura y calidad que los consumidores esperan de un producto premium como el arándano.
 
 Lo más preocupante es que estos productos de menor calidad están entrando en el mercado a precios mucho más bajos, lo que genera una competencia desleal, ya que se venden como arándanos de calidad similar a los españoles, a pesar de que no lo son. Esto afecta a la percepción del consumidor y pone en peligro los ingresos de los productores locales.
 
