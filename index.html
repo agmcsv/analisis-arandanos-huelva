@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Análisis de Arándanos en Huelva</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; max-width: 900px; }
+    header, footer { text-align: center; margin-bottom: 30px; }
+    nav a { margin: 0 10px; text-decoration: none; color: #006400; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+    th { background-color: #e0f7e0; }
+    section { margin-bottom: 50px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Análisis de Arándanos en Huelva</h1>
+    <nav>
+      <a href="#resumen">Resumen</a>
+      <a href="#datos">Datos</a>
+      <a href="#grafico">Gráfica</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="resumen">
+    <h2>Resumen del Proyecto</h2>
+    <p>Este proyecto analiza datos de producción de arándanos en la provincia de Huelva durante 2024. 
+    Se estudian distintas variedades, fincas y municipios para identificar patrones de producción.</p>
+  </section>
+
+  <section id="datos">
+    <h2>Datos de Producción</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Fecha</th>
+          <th>Variedad</th>
+          <th>Producción (kg)</th>
+          <th>Finca</th>
+          <th>Municipio</th>
+        </tr>
+      </thead>
+      <tbody id="tabla-datos">
+        <!-- Se llena con JS -->
+      </tbody>
+    </table>
+  </section>
+
+  <section id="grafico">
+    <h2>Producción Total por Variedad</h2>
+    <canvas id="chartProduccion"></canvas>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Si quieres contactarme, escríbeme a <a href="mailto:tu-email@ejemplo.com">tu-email@ejemplo.com</a>.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Análisis Arándanos Huelva</p>
+  </footer>
+
+  <script>
+    // Datos simplificados del CSV arandanos.csv
+    const datos = [
+      { fecha: "2024-03-15", variedad: "Bluecrop", produccion_kg: 1500, finca: "Finca A", municipio: "Lepe" },
+      { fecha: "2024-03-16", variedad: "Bluecrop", produccion_kg: 1700, finca: "Finca B", municipio: "Cartaya" },
+      { fecha: "2024-03-20", variedad: "Legacy", produccion_kg: 1300, finca: "Finca C", municipio: "Lepe" },
+      { fecha: "2024-03-22", variedad: "Duke", produccion_kg: 1100, finca: "Finca A", municipio: "Cartaya" },
+      { fecha: "2024-03-25", variedad: "Legacy", produccion_kg: 1400, finca: "Finca B", municipio: "Lepe" },
+      { fecha: "2024-03-27", variedad: "Duke", produccion_kg: 1200, finca: "Finca C", municipio: "Lepe" }
+    ];
+
+    // Función para llenar tabla HTML con los datos
+    const tbody = document.getElementById('tabla-datos');
+    datos.forEach(row => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${row.fecha}</td>
+        <td>${row.variedad}</td>
+        <td>${row.produccion_kg}</td>
+        <td>${row.finca}</td>
+        <td>${row.municipio}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+
+    // Agrupar producción total por variedad
+    const produccionPorVariedad = {};
+    datos.forEach(({ variedad, produccion_kg }) => {
+      if (!produccionPorVariedad[variedad]) {
+        produccionPorVariedad[variedad] = 0;
+      }
+      produccionPorVariedad[variedad] += produccion_kg;
+    });
+
+    // Configurar gráfico con Chart.js
+    const ctx = document.getElementById('chartProduccion').getContext('2d');
+    const chart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: Object.keys(produccionPorVariedad),
+        datasets: [{
+          label: 'Producción total (kg)',
+          data: Object.values(produccionPorVariedad),
+          backgroundColor: ['#4caf50', '#81c784', '#a5d6a7'],
+          borderColor: ['#388e3c', '#4caf50', '#66bb6a'],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Kilogramos'
+            }
+          },
+          x: {
+            title: {
+              display: true,
+              text: 'Variedad'
+            }
+          }
+        }
+      }
+    });
+  </script>
+
+</body>
+</html>
