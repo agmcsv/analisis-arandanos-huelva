@@ -8,8 +8,5 @@
 
 - **Desarrollo de políticas públicas para la sostenibilidad**: Las autoridades locales y nacionales deben fomentar políticas públicas que promuevan prácticas agrícolas sostenibles y el uso eficiente de los recursos. Incentivos para la adopción de tecnologías verdes y la reducción del uso de productos químicos serían fundamentales para asegurar la sostenibilidad a largo plazo del sector.
 
- -**Diversificación de Datos**:
-
-Es recomendable ampliar la base de datos para incluir información sobre el uso de fertilizantes orgánicos y alternativas sostenibles. Esto puede ayudar a desarrollar un enfoque más ecológico y saludable en el cultivo de arándanos.
-
+ -**Diversificación de Datos**:Es recomendable ampliar la base de datos para incluir información sobre el uso de fertilizantes orgánicos y alternativas sostenibles. Esto puede ayudar a desarrollar un enfoque más ecológico y saludable en el cultivo de arándanos.
 Incluir más variables como la calidad del suelo y su evolución a lo largo del tiempo, ya que influye directamente en la productividad.
