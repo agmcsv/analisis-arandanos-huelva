@@ -16,3 +16,6 @@ Se pueden usar modelos predictivos para anticipar los efectos del cambio climát
 
 - **Automatización en la Cosecha**: Desarrollar y probar técnicas de cosecha automatizada para mejorar la eficiencia y reducir los costos laborales. 
 A medida que las tecnologías avanzan, los costos de implementación de estas soluciones pueden reducirse significativamente.
+
+- **Consideraciones Sociales y Económicas**: Estudiar los efectos económicos de la automación en la industria, analizando cómo la tecnología puede cambiar las dinámicas laborales, especialmente en la cosecha.
+Analizar las implicaciones sociales y económicas de un cambio hacia prácticas agrícolas más sostenibles y cómo eso afecta a las comunidades locales.
