@@ -1,4 +1,4 @@
-## 6. Recomendaciones para el futuro
+##  Recomendaciones para el futuro
 
 - **Implementación de prácticas agrícolas de precisión**: A medida que la tecnología avanza, la adopción de técnicas de agricultura de precisión (como el uso de drones y sensores en tiempo real) podría optimizar la aplicación de insumos como agua, fertilizantes y pesticidas. Esta tecnología permitiría a los agricultores aplicar los insumos de manera más eficiente y específica, reduciendo costos y minimizando el impacto ambiental.
   
