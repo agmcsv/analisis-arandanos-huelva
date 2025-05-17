@@ -1,4 +1,4 @@
-## 7. Áreas de investigación futura
+## Investigación futura
 
 - **Impacto de la biodiversidad en la productividad**: Investigar cómo la biodiversidad en el entorno del cultivo de arándanos (por ejemplo, la presencia de polinizadores naturales y controladores biológicos de plagas) influye en la productividad y calidad de la cosecha. Promover la biodiversidad podría reducir la necesidad de insumos químicos y mejorar la salud de los ecosistemas agrícolas.
 
