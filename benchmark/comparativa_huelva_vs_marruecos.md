@@ -1,4 +1,4 @@
-# 📊 Comparativa: Huelva vs Marruecos en la Producción de Arándanos
+# Comparativa: Huelva vs Marruecos en la Producción de Arándanos
 
 | Factor                     | Huelva (España)                     | Marruecos                            |
 |---------------------------|-------------------------------------|--------------------------------------|
