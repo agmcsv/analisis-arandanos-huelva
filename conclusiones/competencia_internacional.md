@@ -13,7 +13,7 @@ Lo más preocupante es que estos productos de menor calidad están entrando en e
 
 ## Papel de la Unión Europea
 
-La **Unión Europea** debe jugar un papel más activo en la protección de los productores nacionales mediante una regulación más estricta en la importación de productos de fuera de la UE. Es esencial que se tomen medidas que garanticen la competitividad justa en el mercado de arándanos, como la revisión de acuerdos comerciales que favorecen a países con costos de producción más bajos.
+La Unión Europea debe jugar un papel más activo en la protección de los productores nacionales mediante una regulación más estricta en la importación de productos de fuera de la UE. Es esencial que se tomen medidas que garanticen la competitividad justa en el mercado de arándanos, como la revisión de acuerdos comerciales que favorecen a países con costos de producción más bajos.
 
 Además, la Política Agrícola Común (PAC) debe considerar subvenciones específicas para apoyar a los cultivadores de arándanos españoles y permitirles competir en condiciones más equitativas.
 
