@@ -13,3 +13,6 @@ Incluir más variables como la calidad del suelo y su evolución a lo largo del 
 
 - **Estudio de Impacto Climático**: Dado que el cambio climático sigue siendo un tema central, realizar un análisis detallado de cómo los ciclos climáticos extremos (olas de calor, sequías, lluvias intensas) impactan en la producción de arándanos en Huelva sería crucial.
 Se pueden usar modelos predictivos para anticipar los efectos del cambio climático en la producción futura.
+
+- **Automatización en la Cosecha**: Desarrollar y probar técnicas de cosecha automatizada para mejorar la eficiencia y reducir los costos laborales. 
+A medida que las tecnologías avanzan, los costos de implementación de estas soluciones pueden reducirse significativamente.
