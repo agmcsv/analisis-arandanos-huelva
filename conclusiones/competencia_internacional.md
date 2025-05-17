@@ -3,7 +3,7 @@
 ## Marruecos y Otros Países
 Marruecos está ganando terreno rápidamente en el mercado de arándanos, apoyado por costes de producción más bajos gracias a subsidios gubernamentales y un clima favorable. Este país también tiene la ventaja de una temporada de cosecha más temprana, lo que le permite adelantarse a los competidores y satisfacer la demanda antes que otros productores.
 
-**Perú**, entre otros países, también ha incrementado su cuota en el mercado global mediante acuerdos comerciales favorables y costos de producción competitivos.
+Perú, entre otros países, también ha incrementado su cuota en el mercado global mediante acuerdos comerciales favorables y costos de producción competitivos.
 
 ## Calidad de la fruta
 
