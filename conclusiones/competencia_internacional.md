@@ -23,7 +23,7 @@ La sostenibilidad no debe solo ser una prioridad para los productores, sino tamb
 
 Si no nos posicionamos como líderes en prácticas agrícolas responsables, corremos el riesgo de ser eclipsados por otros países que ya están avanzando en esta área.
 
-## Conclusión
+## Conclusión Internacional
 
 Es imperativo que **España** y la **Unión Europea** tomen medidas urgentes para proteger a los productores nacionales frente a la competencia desleal, no solo en términos de **costos** y **acuerdos comerciales**, sino también en cuanto a la **calidad** de los productos que entran al mercado. Los **arándanos importados de menor calidad** están perjudicando el valor de nuestra producción y afectando la competitividad de nuestros productores, a pesar de que estos ofrecen un producto de **superior calidad**.
 
